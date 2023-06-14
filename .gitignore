@@ -1,0 +1,25 @@
+.idea/*
+*/.idea/*
+*.egg-info/
+.ipynb_checkpoints/
+dist/
+build/
+*.py[cod]
+node_modules/
+
+# Compiled javascript
+oleo/nbextension/
+oleo/labextension/
+
+# OS X
+.DS_Store
+
+.ipynb_checkpoints/
+.idea/*
+build/
+dist/
+qups.egg-info/
+venv/
+unreleased/
+*__pycache__*
+*.gds*
